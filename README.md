@@ -47,8 +47,8 @@ When I'm not coding, I enjoy collaborating with teams, solving complex problems,
 
 ### 🚀 Featured Projects
 
-- [**SampaPoint**](https://github.com/rafaelfabiano/Sampa-Point): Gamified urban tourism platform to explore São Paulo, developed during Hackathon Visite SP.
-- [**Financial Control System**](https://github.com/rafaelfabiano/finance-control-system): Java-based MVC application for managing cash flow and improving resource allocation.
+- [**SampaPoint**](https://github.com/rafaelfabiano/Sampa-Point):Python-based Gamified urban tourism platform to explore São Paulo, developed during Hackathon Visite SP.
+- [**Financial Control System**](https://github.com/rafaelfabiano/finance-control-system): JavaScript-based MVC application for managing cash flow and improving resource allocation.
 
 ---
 
