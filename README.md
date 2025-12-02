@@ -28,7 +28,6 @@ When I'm not coding, I enjoy collaborating with teams, solving complex problems,
 ### 🎨 Frontend  
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
 ### 🗄️ Databases  
